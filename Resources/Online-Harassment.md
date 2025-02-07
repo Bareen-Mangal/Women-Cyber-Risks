@@ -17,7 +17,7 @@ Attackers are using **AI-generated deepfakes** to create fake explicit images of
 
 🔹 **Further Reading:**  
 - [AI Voice Cloning and Its Role in Scams](https://www.corporatecomplianceinsights.com/ai-voice-cloning-extortion-vishing-scams/)  
-- [How AI-Generated Images Are Being Used for Harassment](https://www.nytimes.com/2023/04/10/technology/ai-women-harassment.html)  
+- [How AI-Generated Images Are Being Used for Harassment](https://www.parkview.com/blog/artificial-intelligence-and-online-harassment)  
 
 ---
 
@@ -29,7 +29,7 @@ Attackers **leak personal data** (home address, phone number, workplace) to hara
 ✔️ **Use a P.O. Box** for public records instead of your real address.  
 
 🔹 **Further Reading:**  
-- [A Guide to Protecting Yourself from Doxxing](https://www.privacyrights.org/doxxing-guide)  
+- [How to Protect Yourself from Doxxing](https://oercs.berkeley.edu/privacy/privacy-resources/protect-yourself-doxxing)  
 - [Understanding EXIF Metadata in Photos](https://www.canto.com/blog/photo-metadata/)  
 
 ---
@@ -39,11 +39,11 @@ Did you know that **abusers and hackers can access your smart home devices** (ca
 
 🔹 **Protect yourself:**  
 ✔️ **Reset devices** before using them, and **disable remote access** for IoT devices.  
-✔️ **Check for hidden cameras** in hotel rooms & rentals using an [RF Signal Detector](https://www.theverge.com/2019/8/14/20804514/how-to-spot-hidden-spy-cameras-detect-surveillance-security) or flashlight test.  
+✔️ **Check for hidden cameras** in hotel rooms & rentals using an [RF Signal Detector](https://www.amazon.de/Strahlungsdetektor-Elektromagnetische-Handgehaltener-EMF-Inspektionen-RD630/dp/B0C4L12RB4/ref=asc_df_B0C4L12RB4?mcid=52f99ab725d13c1d92c9c413528c6728&th=1&hvocijid=11391639187285533429-B0C4L12RB4-&hvexpln=75&tag=googshopde-21&linkCode=df0&hvadid=696184104678&hvpos=&hvnetw=g&hvrand=11391639187285533429&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044390&hvtargid=pla-2281435176898&gad_source=1) or flashlight test.  
 
 🔹 **Further Reading:**  
 - [Smart Home Devices Being Used for Domestic Abuse](https://www.theguardian.com/commentisfree/2023/apr/04/smart-tech-domestic-abusers-women)  
-- [How to Detect Hidden Cameras in Airbnbs & Hotels](https://www.theguardian.com/technology/2023/may/14/hidden-cameras-airbnb-hotels-how-to-spot-them)  
+- [How to Spot Hidden Cameras in Airbnb or Hotels](https://www.cnet.com/home/security/spot-hidden-cameras-in-airbnb/)  
 
 ---
 
@@ -72,10 +72,10 @@ Did you know that **abusers and hackers can access your smart home devices** (ca
 
 ### **🇩🇪 Germany’s Cyber Laws**  
 **🔹 NetzDG (Network Enforcement Act)** – Forces social media platforms to remove illegal content, including threats & harassment.  
-🔗 [Details on NetzDG](https://www.bmjv.de/EN/Topics/MediaInternetAndTechnology/NetworkEnforcementAct/NetworkEnforcementAct_node.html)  
+🔗 [Details on NetzDG](https://www.bundesjustizamt.de/SharedDocs/Downloads/DE/NetzDG/Leitlinien_Geldbussen_en.pdf?__blob=publicationFile&v=3)  
 
 **🔹 Gewaltschutzgesetz (Protection Against Violence Act)** – Used for restraining orders, even for **online stalking & threats**.  
-🔗 [Gewaltschutzgesetz Overview](https://www.gesetze-im-internet.de/englisch_gewschg/englisch_gewschg.html)  
+🔗 [Read the German Gewaltschutzgesetz](https://www.hilfe-info.de/Webs/hilfeinfo/EN/KnowYourRights/GewaltschutzGesetz/GewaltschutzGesetz_node.html#:~:text=The%20Act%20on%20Protection%20against,in%20the%20form%20of%20stalking.)  
 
 ---
 
@@ -103,3 +103,7 @@ If you're facing **cyberstalking, harassment, or digital abuse**, these organiza
 The internet isn’t just **for men**, and women shouldn’t have to **constantly be on guard** just to exist online. 💻🚫 We deserve safe spaces, stronger legal protections, and better **awareness about cyber threats**.  
 
 If you have **resources, personal stories, or want to contribute**, feel free to **open an issue or submit a PR** on this repo! Let's make the internet safer **together**. 💙  
+
+---
+
+🚀 **Go ahead and update your `Online-Harassment.md` file with this content! Let me know once it’s done or if you need any changes.** 😊  

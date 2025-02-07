@@ -1,78 +1,105 @@
 # 🚨 Online Harassment & Cyber Threats Against Women  
 
-## 🔍 Overview  
-Women and girls face **unique cybersecurity risks**, including:  
-- **Cyberstalking** – Persistent online tracking, threats, and intimidation.  
-- **Doxxing** – Public exposure of personal information like addresses and phone numbers.  
-- **Sextortion & Revenge Porn** – Coercion involving intimate images and unauthorized sharing.  
-- **Deepfake & AI-Based Harassment** – Misuse of AI to manipulate images/videos for abuse.  
-- **AI Voice Cloning for Blackmail** – Attackers use AI-generated voice deepfakes to impersonate victims in compromising scenarios.  
-- **Metadata Tracking in Images** – Attackers use **EXIF data** in images (location, device details) to track victims without their knowledge.  
-- **IoT Exploitation** – Smart home devices (**security cameras, baby monitors, door locks**) are hacked to spy on or harass women.  
+## 💡 Why This Matters  
+The internet is supposed to be a space where we **connect, learn, and grow**—but for many women and girls, it can also be a place filled with **threats, harassment, and privacy invasions**. From cyberstalking to AI deepfakes, **online violence against women** is becoming more advanced and harder to escape.  
+
+This guide is here to help you **understand these threats, protect yourself, and know your rights** in Germany and globally. 💪🔐  
 
 ---
 
-## 📖 Research & Articles  
+## **🔥 The Digital Threats Women Face**  
+You’ve probably heard about **cyberbullying** and **doxxing**, but online harassment is evolving, and we **need to stay ahead of it**. Here are some of the biggest cyber risks for women today:  
 
-📌 **[Empowering the Bystander: What to Do If You’ve Witnessed Image-Based Sexual Abuse (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/raw/main/Resources/PDFs/Bystander-_Guidance_9_13_23.pdf)** – A detailed guide on preventing and addressing image-based abuse.  
+### **📌 AI & Deepfake Harassment**  
+Attackers are using **AI-generated deepfakes** to create fake explicit images of women, often for blackmail, public shaming, or revenge. These can spread quickly, even if they’re completely **fake**.  
 
-📌 **[The SHIELD Act Explainer (May 2023) (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/raw/main/Resources/PDFs/May-2023-CCRI-SHIELD-Explainer.pdf)** – A legal overview of laws against nonconsensual image distribution.  
+🔹 **Protect yourself:** Regularly **reverse-search your images** using [Google Images](https://images.google.com/) or [TinEye](https://tineye.com/).  
 
-
-🔹 **[How AI Voice Cloning is Used for Blackmail & Scams](https://www.theguardian.com/technology/2023/jun/02/ai-voice-deepfakes-fraud-impersonation)**  
-🔹 **[Hidden Metadata in Photos: A Cybersecurity Risk](https://www.wired.com/story/metadata-photo-privacy-exif-removal/)**  
-🔹 **[Smart Home Devices as Tools for Stalkers](https://www.nytimes.com/2022/05/21/technology/smart-home-devices-abuse.html)**  
-🔹 **[Why Women Are More Likely to Be Targets of AI-Powered Harassment](https://www.forbes.com/sites/forbestechcouncil/2023/04/19/how-generative-ai-enables-targeted-harassment/)**  
-
----
-
-## 🛡️ How to Stay Safe Online (Including Rarely Discussed Risks)  
-
-### **✅ Advanced Privacy & Security Tips**  
-✔️ **Check your images for metadata (EXIF data)** before uploading (use [EXIF Remover](https://www.verexif.com/en/)).  
-✔️ **Use burner emails & phone numbers** when registering on public websites.  
-✔️ **Be cautious with AI-based tools that use your voice or photos** (e.g., AI assistants, voice-to-text apps).  
-✔️ **Enable “Secure Folder” mode** on your phone for sensitive documents and images.  
-✔️ **Use a Raspberry Pi or Pi-Hole** to block unwanted online tracking at home.  
-
-### **🚫 How to Protect Against IoT-Based Attacks**  
-✔️ **Change default passwords** on **smart home devices** (security cameras, baby monitors, etc.).  
-✔️ **Use VLANs or separate Wi-Fi networks** for IoT devices to prevent hacking.  
-✔️ **Disable unnecessary device features** (e.g., voice commands, remote access).  
+🔹 **Further Reading:**  
+- [AI Voice Cloning and Its Role in Scams](https://www.corporatecomplianceinsights.com/ai-voice-cloning-extortion-vishing-scams/)  
+- [How AI-Generated Images Are Being Used for Harassment](https://www.nytimes.com/2023/04/10/technology/ai-women-harassment.html)  
 
 ---
 
-## 📜 Legal Protections & Cybersecurity Laws  
-Many countries have **laws** that protect against online harassment and abuse. Here are key legal resources:
+### **📌 Doxxing & Digital Exposure**  
+Attackers **leak personal data** (home address, phone number, workplace) to harass or intimidate women. This has led to **real-life threats, stalking, and even swatting attacks**.  
 
-📌 **[Cyber Civil Rights Initiative - Legal Help](https://cybercivilrights.org/ccri-safety-center/)** – Offers support for victims of nonconsensual image sharing.  
-📌 **[List of Nonconsensual Pornography Laws (by State)](https://cybercivilrights.org/nonconsensual-pornography-laws/)** – Find out how laws protect against image-based abuse.  
-📌 **[U.S. Federal Trade Commission - Report Online Harassment](https://reportfraud.ftc.gov/#/)** – How to report cyber crimes legally.  
+🔹 **Protect yourself:**  
+✔️ **Google yourself** regularly and request removal of personal data using [Google's Remove Request](https://support.google.com/websearch/troubleshooter/3111061?hl=en).  
+✔️ **Use a P.O. Box** for public records instead of your real address.  
 
-**SHIELD Act (U.S. Law):**  
-- The **SHIELD Act** is a **federal law** that makes it illegal to distribute intimate images without consent.  
-- Read more: **[Full SHIELD Act Document](https://github.com/Bareen-Mangal/Women-Cyber-Risks/blob/main/Resources/PDFs/May-2023-CCRI-SHIELD-Explainer.pdf)**  
-
----
-
-## 🤝 Support Organizations & Communities  
-If you or someone you know is experiencing **online harassment**, these organizations can help:
-
-🔹 **[Women in CyberSecurity (WiCyS)](https://www.wicys.org/)** – A global community for women in cybersecurity.  
-🔹 **[CybHER](https://www.cybher.org/)** – Empowering girls to stay safe online.  
-🔹 **[Women in Security and Privacy (WISP)](https://www.wisporg.com/)** – Dedicated to improving women’s digital safety.  
-🔹 **[Cyber Civil Rights Initiative](https://cybercivilrights.org/)** – Providing resources and legal advocacy for cybercrime victims.  
+🔹 **Further Reading:**  
+- [A Guide to Protecting Yourself from Doxxing](https://www.privacyrights.org/doxxing-guide)  
+- [Understanding EXIF Metadata in Photos](https://www.canto.com/blog/photo-metadata/)  
 
 ---
 
-## 🔗 Further Reading & Tools  
-Here are additional resources for **online safety and cybersecurity**:
+### **📌 Smart Home Tech Used for Stalking**  
+Did you know that **abusers and hackers can access your smart home devices** (cameras, doorbells, baby monitors) to watch and harass you? Even some **Airbnb hosts** have been caught using hidden cameras.  
 
-🔹 **[How Smart Home Tech is Used for Stalking & Abuse](https://www.nbcnews.com/tech/security/domestic-abusers-smart-home-technology-stalking-harassment-rcna46084)**  
-🔹 **[How to Detect Hidden Cameras in Airbnbs & Hotels](https://www.theguardian.com/technology/2023/may/14/hidden-cameras-airbnb-hotels-how-to-spot-them)**  
-🔹 **[How to Permanently Remove Your Personal Data from the Internet](https://www.consumerreports.org/digital-privacy/how-to-remove-your-personal-information-from-the-internet-a1001141174/)**  
+🔹 **Protect yourself:**  
+✔️ **Reset devices** before using them, and **disable remote access** for IoT devices.  
+✔️ **Check for hidden cameras** in hotel rooms & rentals using an [RF Signal Detector](https://www.theverge.com/2019/8/14/20804514/how-to-spot-hidden-spy-cameras-detect-surveillance-security) or flashlight test.  
+
+🔹 **Further Reading:**  
+- [Smart Home Devices Being Used for Domestic Abuse](https://www.theguardian.com/commentisfree/2023/apr/04/smart-tech-domestic-abusers-women)  
+- [How to Detect Hidden Cameras in Airbnbs & Hotels](https://www.theguardian.com/technology/2023/may/14/hidden-cameras-airbnb-hotels-how-to-spot-them)  
 
 ---
 
-📢 **Let’s work together to build a safer internet for women and girls!**  
+## **🛡️ How to Stay Safe Online**  
 
+✔️ **Use Strong Passwords & Passphrases** – Instead of a single word, use **a sentence** like: `"MyDog$RoxyIsTheBest2023!"`.  
+✔️ **Enable Two-Factor Authentication (2FA)** – Especially on social media & email.  
+✔️ **Use Burner Emails & Virtual Numbers** – Avoid using your real info for public accounts.  
+✔️ **Disable Metadata on Photos** – Remove **EXIF data** before uploading pictures (use [EXIF Remover](https://www.verexif.com/en/)).  
+✔️ **Be Careful with AI Voice & Video Tools** – Your voice and face can be cloned. **Don't share unnecessary voice recordings online**.  
+
+---
+
+## **📜 Laws That Protect Women from Cyber Harassment**  
+
+### **🌍 Global Laws**  
+**🔹 Budapest Convention on Cybercrime** – The first international treaty focused on online crimes, including cyber harassment.  
+🔗 [Read More](https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/185)  
+
+**🔹 General Data Protection Regulation (GDPR) – EU Law**  
+✔️ Gives you the right to **request data removal** from websites.  
+✔️ Companies must **protect your personal data** or face fines.  
+🔗 [Learn About GDPR](https://gdpr-info.eu/)  
+
+---
+
+### **🇩🇪 Germany’s Cyber Laws**  
+**🔹 NetzDG (Network Enforcement Act)** – Forces social media platforms to remove illegal content, including threats & harassment.  
+🔗 [Details on NetzDG](https://www.bmjv.de/EN/Topics/MediaInternetAndTechnology/NetworkEnforcementAct/NetworkEnforcementAct_node.html)  
+
+**🔹 Gewaltschutzgesetz (Protection Against Violence Act)** – Used for restraining orders, even for **online stalking & threats**.  
+🔗 [Gewaltschutzgesetz Overview](https://www.gesetze-im-internet.de/englisch_gewschg/englisch_gewschg.html)  
+
+---
+
+### **🇺🇸 US Cyber Laws**  
+**🔹 Violence Against Women Act (VAWA)** – Includes **protections for online abuse**.  
+🔗 [Learn More](https://www.justice.gov/ovw)  
+
+**🔹 SHIELD Act** – A federal law that makes it illegal to distribute intimate images without consent.  
+🔗 [Read the SHIELD Act](https://github.com/Bareen-Mangal/Women-Cyber-Risks/raw/main/Resources/PDFs/May-2023-CCRI-SHIELD-Explainer.pdf)  
+
+---
+
+## **📞 Where to Get Help**  
+
+If you're facing **cyberstalking, harassment, or digital abuse**, these organizations can help:  
+
+🔹 **[Women in CyberSecurity (WiCyS)](https://www.wicys.org/)** – Global community for women in cybersecurity.  
+🔹 **[Cyber Civil Rights Initiative](https://cybercivilrights.org/)** – Legal help for revenge porn & online abuse.  
+🔹 **[Women in Security & Privacy (WISP)](https://www.wisporg.com/)** – Digital safety advocacy group.  
+🔹 **[Access Now](https://www.accessnow.org/)** – Supports victims of online harassment worldwide.  
+
+---
+
+## **📌 Final Thoughts**  
+The internet isn’t just **for men**, and women shouldn’t have to **constantly be on guard** just to exist online. 💻🚫 We deserve safe spaces, stronger legal protections, and better **awareness about cyber threats**.  
+
+If you have **resources, personal stories, or want to contribute**, feel free to **open an issue or submit a PR** on this repo! Let's make the internet safer **together**. 💙  

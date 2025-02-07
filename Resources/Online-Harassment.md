@@ -13,11 +13,11 @@ Women and girls face **unique cybersecurity risks**, including:
 ---
 
 ## 📖 Research & Articles  
-Here are **valuable resources** to understand online harassment and how to combat it:
 
-📌 **[Empowering the Bystander: What to Do If You’ve Witnessed Image-Based Sexual Abuse (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/blob/main/Resources/PDFs/Bystander-_Guidance_9_13_23.pdf)** – A detailed guide on preventing and addressing image-based abuse.  
+📌 **[Empowering the Bystander: What to Do If You’ve Witnessed Image-Based Sexual Abuse (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/raw/main/Resources/PDFs/Bystander-_Guidance_9_13_23.pdf)** – A detailed guide on preventing and addressing image-based abuse.  
 
-📌 **[The SHIELD Act Explainer (May 2023) (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/blob/main/Resources/PDFs/May-2023-CCRI-SHIELD-Explainer.pdf)** – A legal overview of laws against nonconsensual image distribution.  
+📌 **[The SHIELD Act Explainer (May 2023) (PDF)](https://github.com/Bareen-Mangal/Women-Cyber-Risks/raw/main/Resources/PDFs/May-2023-CCRI-SHIELD-Explainer.pdf)** – A legal overview of laws against nonconsensual image distribution.  
+
 
 🔹 **[How AI Voice Cloning is Used for Blackmail & Scams](https://www.theguardian.com/technology/2023/jun/02/ai-voice-deepfakes-fraud-impersonation)**  
 🔹 **[Hidden Metadata in Photos: A Cybersecurity Risk](https://www.wired.com/story/metadata-photo-privacy-exif-removal/)**  

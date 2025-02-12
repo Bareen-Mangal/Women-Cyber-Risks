@@ -51,4 +51,4 @@
 ---
 
 ## Contact
-For questions, feedback, or ideas, please open an issue or reach out on [LinkedIn](#). Let’s work together to make the internet safer!
+For questions, feedback, or ideas, please open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/barin-mangal/). 

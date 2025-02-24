@@ -31,12 +31,13 @@ Attackers **leak personal data** (home address, phone number, workplace) to hara
 🔹 **Further Reading:**  
 - [How to Protect Yourself from Doxxing](https://oercs.berkeley.edu/privacy/privacy-resources/protect-yourself-doxxing)  
 - [Understanding EXIF Metadata in Photos](https://www.canto.com/blog/photo-metadata/)
-- [End Violence Against Women Campaign](https://www.endviolenceagainstwomen.org.uk/campaign/online-abuse/)  
+
 
 
 ## 2. Additional Recommended Resources:
 - [PEN America – Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/)
 - [Women's Aid – Online Safety Guide](https://www.womensaid.org.uk/cover-your-tracks-online/)
+- [End Violence Against Women Campaign](https://www.endviolenceagainstwomen.org.uk/campaign/online-abuse/)  
 
 
 ---

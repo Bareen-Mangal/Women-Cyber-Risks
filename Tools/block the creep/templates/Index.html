@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlockTheCreep - Stalker Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #dc3545;
+            margin-top: 50px;
+        }
+        p {
+            color: #555;
+        }
+        form {
+            margin-top: 20px;
+        }
+        input {
+            padding: 10px;
+            width: 250px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #dc3545;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #c82333;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚨 BlockTheCreep 🚨</h1>
+    <p>Enter your social media username to check for frequent stalkers.</p>
+    
+    <form action="/check" method="POST">
+        <input type="text" name="username" placeholder="Enter your username" required>
+        <button type="submit">Check</button>
+    </form>
+</body>
+</html>

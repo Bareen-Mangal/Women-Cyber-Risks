@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Profile</title>
+</head>
+<body>
+  <h1>Profile Page</h1>
+  
+  {% if username %}
+    <p>Hello, {{ username }}! Thanks for visiting.</p>
+  {% else %}
+    <p>Visitor not specified.</p>
+  {% endif %}
+
+  <p><a href="/">Back to Home</a></p>
+  <p><a href="/visitors">View All Visitors</a></p>
+</body>
+</html>

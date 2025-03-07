@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>BlockTheCreep - Results</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      margin: 50px auto;
+      max-width: 500px;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 10px;
+    }
+    th {
+      background: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Results for {{ current_user }}</h1>
+    <p>Below is a list of all users who have checked their stalkers, sorted by who checked the most.</p>
+
+    <table>
+      <tr>
+        <th>Username</th>
+        <th>Check Count</th>
+      </tr>
+      {% for user, count in visitors %}
+      <tr>
+        <td>{{ user }}</td>
+        <td>{{ count }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+
+    <p><a href="/">Go Back</a></p>
+  </div>
+</body>
+</html>
